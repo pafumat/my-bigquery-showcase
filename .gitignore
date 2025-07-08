@@ -1,0 +1,8 @@
+# Ignore service account keys
+*.json
+
+# Ignore node modules
+node_modules/
+
+# Ignore system files
+.DS_Store
