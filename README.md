@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates the setup and configuration of a BigQuery MCP (Model Context Protocol) Server, enabling a Large Language Model (LLM) like Claude to interact directly with Google BigQuery. This allows for natural language querying of BigQuery data, streamlining data analysis and removing the need for manual SQL query writing.
+This project demonstrates the setup and configuration of a BigQuery MCP (Model Context Protocol) Server, enabling a Large Language Model (LLM) like Claude to interact directly with Google BigQuery. This allows for natural language querying of BigQuery data, streamlining data analysis and removing the need for manual SQL query writing for "Basic Analytics," making the EDA process easier.
 
 This repository documents my personal journey in setting up this server, the challenges I faced, and the knowledge I gained.
 
